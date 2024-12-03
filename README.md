@@ -23,5 +23,5 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,svelte,nuxt" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,svelte,nuxt,figma" />
 </div>
