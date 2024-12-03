@@ -7,6 +7,12 @@
 
 <div align="center">
   🔭 I’m currently working on School projects
-🌱 I’m currently learning NODE JS, Svelte kit, Directus, vue.js and Nuxt.js
+  
+  🌱 I’m currently learning NODE JS, Svelte kit, Directus, vue.js and Nuxt.js
+
   💬 Ask me about Sveltekit, HTML/CSS or anything 
+
+  <a href="mailto:lesley.reynolds92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
